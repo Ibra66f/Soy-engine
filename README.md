@@ -38,7 +38,7 @@ For more information on related technology, see:
 ---
 
 ### Q: Which operating systems are supported? 💻  
-**A:** The engine is primarily tested on Windows and Linux (including WSL). Mac support has not been fully explored yet, so contributions in that area are welcome.
+**A:** The engine is primarily tested on Windows. Mac support has not work yet, so contributions in that area are welcome.
 
 ---
 
