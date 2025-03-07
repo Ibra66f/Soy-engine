@@ -1,3 +1,0 @@
-# disable newline normalization for ent files
-maps/*.ent			binary
-maps/*.ent.orig		binary
